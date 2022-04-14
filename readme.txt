@@ -5,4 +5,4 @@ import os
 import pygame
 import sys
 
-paint2.py első soraiban megtalálható a dokumentáció
+doc in paint2.py
